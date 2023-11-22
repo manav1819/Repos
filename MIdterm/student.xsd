@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="student"
+    targetNamespace="http://tempuri.org/student.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/student.xsd"
+    xmlns:mstns="http://tempuri.org/student.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+</xs:schema>

@@ -1,0 +1,5 @@
+﻿  car.cpp
+  Source.cpp
+C:\Users\mdpat\source\repos\MidtermC++\Source.cpp(16,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  MidtermC++.vcxproj -> C:\Users\mdpat\source\repos\MidtermC++\x64\Debug\MidtermC++.exe

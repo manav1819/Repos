@@ -1,0 +1,6 @@
+﻿  movies.c
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop3\movies.c(14,22): warning C4028: formal parameter 1 different from declaration
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop3\movies.c(21,24): warning C4028: formal parameter 1 different from declaration
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop3\movies.c(27,2): warning C4013: 'printInWidth' undefined; assuming extern returning int
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop3\movies.c(34,46): warning C4013: 'min' undefined; assuming extern returning int
+  Workshop3.vcxproj -> D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop3\x64\Debug\Workshop3.exe

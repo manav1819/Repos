@@ -1,0 +1,9 @@
+﻿  classList.c
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop2Part1\classList.c(21,2): warning C4013: 'borders' undefined; assuming extern returning int
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop2Part1\classList.c(24,2): warning C4013: 'middleLine' undefined; assuming extern returning int
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop2Part1\classList.c(42,10): warning C4098: 'printReport': 'void' function returning a value
+  main.c
+  Generating Code...
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop2Part1\classList.c(63): warning C4716: 'middleLine': must return a value
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop2Part1\classList.c(53): warning C4716: 'borders': must return a value
+  Workshop2Part1.vcxproj -> D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\Workshop2Part1\x64\Debug\Workshop2Part1.exe

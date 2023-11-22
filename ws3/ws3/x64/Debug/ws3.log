@@ -1,0 +1,10 @@
+﻿  Movie.c
+  main.c
+C:\Users\m_gur\OneDrive\Desktop\Fall 2023\Sheridan\PROG 36859\IPC144NBB-main\Workshops\WS6\lab\main.c(27,7): warning C4013: 'list' undefined; assuming extern returning int
+C:\Users\m_gur\OneDrive\Desktop\Fall 2023\Sheridan\PROG 36859\IPC144NBB-main\Workshops\WS6\lab\main.c(47,17): warning C4013: 'getMovieTitle' undefined; assuming extern returning int
+C:\Users\m_gur\OneDrive\Desktop\Fall 2023\Sheridan\PROG 36859\IPC144NBB-main\Workshops\WS6\lab\main.c(47,17): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\m_gur\OneDrive\Desktop\Fall 2023\Sheridan\PROG 36859\IPC144NBB-main\Workshops\WS6\lab\main.c(47,17): warning C4024: 'strstr': different types for formal and actual parameter 1
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol list referenced in function main
+main.obj : error LNK2019: unresolved external symbol getMovieTitle referenced in function searchMovies
+C:\Users\m_gur\OneDrive\Desktop\Fall 2023\Sheridan\PROG 36859\Workshops\Workshops C\Workshop - 3\ws3\x64\Debug\ws3.exe : fatal error LNK1120: 2 unresolved externals

@@ -1,0 +1,54 @@
+﻿  Car.cpp
+  Employee.cpp
+  main.cpp
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(38,23): error C2143: syntax error: missing ')' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(38,5): error C3861: 'listArrayElements': identifier not found
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(38,23): error C2143: syntax error: missing ';' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(38,23): error C2059: syntax error: '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(38,48): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(42,16): error C2143: syntax error: missing ')' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(42,9): error C3861: 'search': identifier not found
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(42,16): error C2059: syntax error: '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(42,43): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(42,44): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(42,46): error C2143: syntax error: missing ';' before '{'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(48,5): error C2181: illegal else without matching if
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(54,23): error C2143: syntax error: missing ')' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(54,5): error C3861: 'listArrayElements': identifier not found
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(54,23): error C2143: syntax error: missing ';' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(54,23): error C2059: syntax error: '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(54,57): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(59,16): error C2143: syntax error: missing ')' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(59,9): error C3861: 'search': identifier not found
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(59,16): error C2059: syntax error: '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(59,50): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(59,51): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(59,53): error C2143: syntax error: missing ';' before '{'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(65,5): error C2181: illegal else without matching if
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(71,23): error C2143: syntax error: missing ')' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(71,5): error C3861: 'listArrayElements': identifier not found
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(71,23): error C2143: syntax error: missing ';' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(71,23): error C2059: syntax error: '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(71,58): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(76,16): error C2143: syntax error: missing ')' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(76,9): error C3861: 'search': identifier not found
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(76,16): error C2059: syntax error: '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(76,49): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(76,50): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(76,52): error C2143: syntax error: missing ';' before '{'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(82,5): error C2181: illegal else without matching if
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(90,16): error C2143: syntax error: missing ')' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(90,9): error C3861: 'search': identifier not found
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(90,16): error C2059: syntax error: '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(90,47): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(90,48): error C2059: syntax error: ')'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(90,50): error C2143: syntax error: missing ';' before '{'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(96,5): error C2181: illegal else without matching if
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(105,23): error C2143: syntax error: missing ')' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(105,5): error C3861: 'listArrayElements': identifier not found
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(105,23): error C2143: syntax error: missing ';' before '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(105,23): error C2059: syntax error: '...'
+D:\Sheridan\Bachelors in Cyber Security\Semester 3\PROG36859 Advanced Programming\Repos\w5\w5\main.cpp(105,50): error C2059: syntax error: ')'
+  ReadWrite.cpp
+  Student.cpp
+  Generating Code...

@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\mdpat\source\repos\MIdterm\main.c(28,10): warning C4047: 'function': 'const Student *' differs in levels of indirection from 'Student (*)[50]'
+C:\Users\mdpat\source\repos\MIdterm\main.c(28,10): warning C4024: 'prnStds': different types for formal and actual parameter 1
+  MIdterm.vcxproj -> C:\Users\mdpat\source\repos\MIdterm\x64\Debug\MIdterm.exe
